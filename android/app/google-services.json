@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625308332766",
+    "firebase_url": "https://iblog-bca4b.firebaseio.com",
+    "project_id": "iblog-bca4b",
+    "storage_bucket": "iblog-bca4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625308332766:android:f41580e63ed8cdf670c84f",
+        "android_client_info": {
+          "package_name": "com.example.iblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625308332766-f117pccn61rjk2n6mrh934vqb1heike4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsEqdnHVzX-sErgr_1Gl0aC-PVJiWMyUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625308332766-f117pccn61rjk2n6mrh934vqb1heike4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
